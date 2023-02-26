@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Satisfy</string>
+    <string name="burger_text">Burger</string>
+    <string name="order_no_text">Order No</string>
+    <string name="order_no_value">12345678</string>
+    <string name="price_text">Price</string>
+    <string name="rupee_symbol">₹</string>
+    <string name="my_orders">My Orders</string>
+</resources>
