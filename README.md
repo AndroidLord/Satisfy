@@ -1,4 +1,5 @@
 #Satisfy App
+
 ##Overview
 Satisfy is a simple food ordering app that allows users to order fast food from different cuisines such as burgers, pizzas, and chow mein. This app is created for practicing purposes and does not have any online connection. The app is developed using Java and XML in Android Studio and uses SQLite database to store information.
 
